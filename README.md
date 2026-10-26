@@ -1,8 +1,8 @@
-# 📊 Subscription Analytics & Customer Churn Analysis
+# RetentionIQ – Customer Churn & Revenue Risk Intelligence
 
 ## 📌 Project Overview
 
-The **Subscription Analytics & Customer Churn Analysis** project focuses on analyzing subscription-based business data to understand customer behavior, subscription performance, payment trends, and customer cancellations.
+The **RetentionIQ – Customer Churn & Revenue Risk Intelligence** project focuses on analyzing subscription-based business data to understand customer behavior, subscription performance, payment trends, and customer cancellations.
 
 The project uses multiple CSV datasets containing customer information, subscription details, plan pricing, payment records, cancellation data, and customer usage activity. By combining and analyzing these datasets, the project aims to identify meaningful patterns and generate insights that can help businesses improve customer retention and make data-driven decisions.
 
