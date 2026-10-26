@@ -1,0 +1,5 @@
+plan_id,plan_name,monthly_price,billing_cycle
+1,Basic,299,Monthly
+2,Standard,499,Monthly
+3,Premium,799,Monthly
+4,Family,999,Monthly
